@@ -1,12 +1,19 @@
 I have answered the following questions for you:
 
 • We want a full stack website (Back-and, Front-and), can you do it ? YES
+
 • We need a e-commerce / blog / admin panel /user panel /static website, can you do it for us? YES
+
 • Can you do a website from zero or fix our web site ? YES
+
 • I want a database for my website, can you create it? YES
+
 • My website need to be optimize for search engines, can you do it? YES
+
 • I need a user and admin panel, can you create and connect them? YES
+
 • I have a website , can you customize it for us? YES
+
 
 “I’m a developer with experience in building websites for small and medium sized businesses. Whether you’re trying to win work, list your services or even create a whole online store – I can help!
 
