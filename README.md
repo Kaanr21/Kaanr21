@@ -10,11 +10,12 @@
 
 ###
 
- <h3 aling="center">I have over 15 projects and they are all secret. I can open them if necessary.</h3>
+ <p aling="center">I have over 15 projects and they are all secret. I can open them if necessary.</p>
+ 
 ###
-
+<div align="center">
 <img align="right" height="150" src="https://avatarfiles.alphacoders.com/371/thumb-350-371697.webp"  />
-
+</div>
 ###
 
 <div align="center">
