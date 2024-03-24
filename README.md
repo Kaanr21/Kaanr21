@@ -76,6 +76,10 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
+###
+<div aling="centrer">
+  <p>I have over 15 projects and they are all secret. I can open them if necessary.</p>
+</div>
 
 ###
 
