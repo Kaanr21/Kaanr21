@@ -15,7 +15,6 @@
 </div>
 
 
-<img align="right" height="150" src="https://avatarfiles.alphacoders.com/371/thumb-350-371697.webp"  />
 
 ###
 
