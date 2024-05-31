@@ -1,4 +1,3 @@
-<h2 align="center">Hi 👋! My name is KAAN  and I'm a <br>FULL STACK DEVELOPER  from TURKEY</h2>
 
 ###
 
